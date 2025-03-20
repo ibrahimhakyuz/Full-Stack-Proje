@@ -1,0 +1,7 @@
+id,title,postText,username,createdAt,updatedAt
+1,"Random Title","Random Post Text",Baltazar,"2024-12-10 15:27:37","2024-12-10 15:27:37"
+2,"Random Title 2","Random Post Text 2",Baltazar,"2024-12-10 15:31:45","2024-12-10 15:31:45"
+3,"Create a post","Tarayıcı üzerinden eklenen ilk post",Baltazar,"2024-12-14 23:38:13","2024-12-14 23:38:13"
+5,"Şeyma Bahçeci","Şeyma Bahçecinin Blog'u",ŞeymaBhçc,"2024-12-29 12:20:36","2024-12-29 12:20:36"
+7,"Another Post","Another Post Text",Baltazar,"2025-01-26 22:01:27","2025-01-26 22:01:27"
+8,"User Deneme Başlık","Bu bir user deneme postudur",Baltazar,"2025-02-12 16:55:41","2025-02-12 16:55:41"
